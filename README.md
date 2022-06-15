@@ -52,4 +52,4 @@ https://firebase.google.com/docs/cli
 
 ## Connect firebase-firestore
 
-1. Specify environment variables in the serve/environment.ts file
+1. `Specify environment variables in the serve/environment.ts file`
